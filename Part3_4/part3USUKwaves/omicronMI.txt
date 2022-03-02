@@ -1,0 +1,12 @@
+
+0 days time lag
+
+MI_Binned(col_0 -> col_1) = 0.3177 bits (null: 0.0096 +/- 0.0152 std dev.; p(surrogate > measured)=0.00000 from 100 surrogates)
+MI_Binned(col_1 -> col_0) = 0.4912 bits (null: 0.0118 +/- 0.0160 std dev.; p(surrogate > measured)=0.00000 from 100 surrogates)
+Skipping column combo 1 1 
+
+4 days time lag
+
+MI_Binned(col_0 -> col_1) = 0.1500 bits
+MI_Binned(col_1 -> col_0) = 0.4828 bits
+Skipping column combo 1 1 
